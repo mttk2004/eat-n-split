@@ -26,9 +26,9 @@ body {
 }
 
 .app {
-  min-height: 80vh;
+  min-height: 70vh;
   display: grid;
-  grid-template-columns: 34rem 44rem;
+  grid-template-columns: 38rem 44rem;
   column-gap: 4rem;
   align-items: start;
 }
